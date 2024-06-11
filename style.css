@@ -89,6 +89,12 @@ nav button:hover {
     align-items: center;
     flex-wrap: wrap;
     background: #f5d042;
+    flex-direction: column;
+}
+
+.shows-container .title {
+    color: #0a174e;
+    font-size: 2rem;
 }
 
 .cards {
